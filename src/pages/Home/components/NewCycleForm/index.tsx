@@ -17,7 +17,13 @@ export function NewCycleForm() {
         {...register("task")}
         disabled={!!activeCycle}
       />
-    
+      <datalist id="task-suggestions">
+        <option value="Project 1" />
+        <option value="Project 2" />
+        <option value="Project 3" />
+        <option value="Project 4" />
+      </datalist>
+
       <label htmlFor="minuteAmount">pendant</label>
       <MinutesAmountInput
         type="number"
