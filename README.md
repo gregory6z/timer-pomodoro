@@ -7,7 +7,7 @@
 
 <h1>Timer pomodoro<h1/>
 &nbsp;
-<img src="https://github.com/gregory6z/timer-pomodoro/blob/main/public/macbook-ignite.jpg?raw=true" width="100%" />
+<img src="https://github.com/gregory6z/timer-pomodoro/blob/main/public/ignite-timer-photo.png?raw=true" width="100%" />
   
   
 
